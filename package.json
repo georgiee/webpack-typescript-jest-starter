@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@types/jest": "23.3.10",
-    "gh-pages": "2.0.1",
+    "gh-pages": "3.2.3",
     "jest": "23.6.0",
     "ts-jest": "23.10.5"
   }
